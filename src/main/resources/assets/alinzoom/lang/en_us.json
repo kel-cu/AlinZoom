@@ -1,0 +1,12 @@
+{
+  "alinzoom": "AlinZoom",
+  "alinzoom.zoom": "Zoom key",
+
+  "alinzoom.configs": "Configs",
+  "alinzoom.configs.zoom.mount": "Default zoom level",
+  "alinzoom.configs.zoom.max": "Max zoom level",
+  "alinzoom.configs.zoom.smooth_camera": "Cinematic camera",
+  "alinzoom.configs.scroll": "Enable Scroll",
+  "alinzoom.configs.scroll.mount": "Scroll mount",
+  "alinzoom.configs.zoom.mouse_sensitivity": "Enable Mouse Sensitivity"
+}
